@@ -14,7 +14,7 @@
 - After that make ERD
 
 # Step 3 Screenshot before data cleaning 
-<img src="images/data cleaning.png" alt="alt text" width="400"
+<img src="images/Clean Data.png" alt="alt text" width="400"
 
 # Step 4 Screenshot after data cleaning
 ![image alt](https://github.com/Aljohn0809/EDM-PORTFOLIO/blob/54398eee7894a458d3b2445e5791439585d42e4b/MIDTERM%20LAB%20TASK%201/Images/Clean%20Data.png)
